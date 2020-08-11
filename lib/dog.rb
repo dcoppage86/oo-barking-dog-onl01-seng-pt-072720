@@ -9,7 +9,9 @@ class Dog
   end
 end
 
-def Dog 
+class Dog
+  def bark
+    
   
 
 
