@@ -1,8 +1,8 @@
 class Dog 
   
   def name=(dogs_name)
-    @fido = Dog.new
+    @fido = dogs_name
   end
 end
 
-fido.name
+
