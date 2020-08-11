@@ -5,3 +5,5 @@ class Dog
     fido.name = "Fido"
   end
 end
+
+fido.name
