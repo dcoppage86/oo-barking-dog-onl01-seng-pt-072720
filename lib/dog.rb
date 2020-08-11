@@ -9,4 +9,7 @@ class Dog
   end
 end
 
+def Dog 
+  
+
 
